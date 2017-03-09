@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+<h1>§Ú¦n«Ó</h1>
+<p>This is a paragraph.</p>
+<br><img src="image.jpg" alt="cat"></br>
+
+</body>
+</html>
